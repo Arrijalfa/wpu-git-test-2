@@ -9,5 +9,8 @@
 <body>
     <h1>Hello World!</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio dignissimos, necessitatibus asperiores, nobis aspernatur voluptatem itaque repellendus aperiam ipsa accusamus dolor deleniti, deserunt vel velit? Illum cumque distinctio ullam ab!</p>
+    <ul>
+        <li>Fadhil Arrijal</li>
+    </ul>
 </body>
 </html>
